@@ -1,2 +1,2 @@
-# qts_i_luis_ota
+# qts-i-luis-ota
 Aulas de qualidade de teste de software com o professor João Siles
